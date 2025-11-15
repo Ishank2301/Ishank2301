@@ -176,20 +176,6 @@ Advanced LangChain-based multi-agent workflows.
 ---
 
 
-### **🚀 RAG System — Chat With Documents**
-
-**Repo:** [https://github.com/Ishank2301/Building-a-RAG-System---Build-an-Application-for-Chatting-with-Our-Documents](https://github.com/Ishank2301/Building-a-RAG-System---Build-an-Application-for-Chatting-with-Our-Documents)
-
-### **🤖 AI Agent From Scratch**
-
-**Repo:** [https://github.com/Ishank2301/AI_agent](https://github.com/Ishank2301/AI_agent)
-
-### **🧠 LangChain Agents**
-
-**Repo:** [https://github.com/Ishank2301/Lagrang-Skills](https://github.com/Ishank2301/Lagrang-Skills)
-
----
-
 
 ### My Skills Are Now Represented as below:
 
