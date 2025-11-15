@@ -78,6 +78,30 @@
 
 ----
 
+## 🔥 3D GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishank2301&theme=tokyo-night" />
+</p>
+
+
+## 🏆 Achievements & Certifications
+
+* 🥇 Completed multiple AI/ML projects including RAG & Agentic Systems
+* 🎯 Hands-on experience in LLM Engineering & Vector Databases
+* 🧠 Built end-to-end AI SaaS tools with deployment
+
+## 🚀 Skill Progress Bars
+
+```text
+Python           ████████████████░░░░  85%
+Machine Learning ████████████████░░░░  80%
+Deep Learning    ███████████████░░░░░  75%
+LLMs/RAG         ██████████████████░░  90%
+Agents (CrewAI)  ███████████████░░░░░  78%
+Backend/API      ████████████░░░░░░░░  60%
+```
+
 ## ⭐ **Add-On Badges**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ishank2301\&color=blue)
@@ -118,29 +142,6 @@ Advanced LangChain-based multi-agent workflows.
 
 ---
 
-## 🔥 3D GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishank2301&theme=tokyo-night" />
-</p>
-
-
-## 🏆 Achievements & Certifications
-
-* 🥇 Completed multiple AI/ML projects including RAG & Agentic Systems
-* 🎯 Hands-on experience in LLM Engineering & Vector Databases
-* 🧠 Built end-to-end AI SaaS tools with deployment
-
-## 🚀 Skill Progress Bars
-
-```text
-Python           ████████████████░░░░  85%
-Machine Learning ████████████████░░░░  80%
-Deep Learning    ███████████████░░░░░  75%
-LLMs/RAG         ██████████████████░░  90%
-Agents (CrewAI)  ███████████████░░░░░  78%
-Backend/API      ████████████░░░░░░░░  60%
-```
 
 ## 🧩 Random Dev Quote
 
@@ -201,20 +202,6 @@ Backend/API      ████████████░░░░░░░░  6
 * **LLM Nexus** (Transformers, LangChain, RAG, Vector DBs)
 * **Agentic Realm** (CrewAI, LangGraph, Tools, Orchestration)
 * **Deployment Void** (Docker, FastAPI, Streamlit, Gradio)
-
----
-
-### 🚀 **RAG System — The Knowledge Harvester**
-
-**Repo:** [https://github.com/Ishank2301/Building-a-RAG-System---Build-an-Application-for-Chatting-with-Our-Documents](https://github.com/Ishank2301/Building-a-RAG-System---Build-an-Application-for-Chatting-with-Our-Documents)
-
-### 🤖 **AI Agent from scratch**
-
-**Repo:** [https://github.com/Ishank2301/AI_agent](https://github.com/Ishank2301/AI_agent)
-
-### 🧠 **LangChain Agents **
-
-**Repo:** [https://github.com/Ishank2301/Lagrang-Skills](https://github.com/Ishank2301/Lagrang-Skills)
 
 ---
 
