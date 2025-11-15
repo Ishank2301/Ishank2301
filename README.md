@@ -161,10 +161,6 @@ Advanced LangChain-based multi-agent workflows.
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/ishank-mishra-07717b293/](https://www.linkedin.com/in/ishank-mishra-07717b293/)
 * 🌐 **Portfolio:** [https://ishankportfolio.netlify.app](https://ishankportfolio.netlify.app)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWXN/giphy.gif" width="300">
-</p>
-
 ---
 
 
