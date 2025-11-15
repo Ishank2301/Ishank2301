@@ -1,31 +1,38 @@
-# 👋 Hi, I’m Ishank Mishra (ishank2301)
+# ⚡ Ishank
 
-## ✨ About Me  
-Full-Stack AI Engineer | ML / DL Developer | LLM & RAG Specialist  
-Building autonomous agents, vector-DB systems, and end-to-end AI SaaS.
+## ✨ About Me
 
-## 🧰 Tech Stack  
-<p align="left">  
-<img src="https://skillicons.dev/icons?i=python,sql,js,fastapi,flask,streamlit,docker,numpy,pandas,scikit-learn,tensorflow,pytorch,langchain,huggingface" />  
+* 🎓 Full‑Stack AI Engineer & Machine Learning Developer
+* 🤖 Passionate about LLMs, RAG systems, Agents, Vector Databases
+* 💡 Love building AI SaaS, intelligent apps, and automation tools
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,sql,fastapi,flask,streamlit,docker,git,github,linux,vscode&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,opencv&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=langchain&theme=light" height="48" />
+<img src="https://img.shields.io/badge/RAG-%236A5ACD?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/VectorDB-%23009688?style=for-the-badge" height="28" />
 </p>
 
-## 📊 GitHub Stats  
-<p align="center">  
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishank2301&show_icons=true&theme=tokyonight" width="47%" />  
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishank2301&layout=compact&theme=tokyonight" width="40%" />  
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishank2301&show_icons=true&theme=tokyonight" width="47%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishank2301&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
-## 📂 Featured Projects  
-- **RAG System – Chat With Documents** – [Repo](https://github.com/Ishank2301/Building-a-RAG-System---Build-an-Application-for-Chatting-with-Our-Documents)  
-- **AI Agent From Scratch** – [Repo](https://github.com/Ishank2301/AI_agent)  
-- **LangChain Agents – Nexus AI Cluster** – [Repo](https://github.com/Ishank2301/Lagrang-Skills)
+## 📫 Connect With Me
 
-## 📫 Connect with Me  
-- 📧 Email: ishankmishra579@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/ishank-mishra-07717b293/  
-- 🌐 Portfolio: https://ishankportfolio.netlify.app
+* 📧 Email: **[ishankmishra579@gmail.com](mailto:ishankmishra579@gmail.com)**
+* 💼 LinkedIn: **[https://www.linkedin.com/in/ishank-mishra-07717b293/](https://www.linkedin.com/in/ishank-mishra-07717b293/)**
+* 🌐 Portfolio: **[https://ishankportfolio.netlify.app](https://ishankportfolio.netlify.app)**
 
 ---
 
-⭐ Thanks for stopping by — let’s build something amazing!  
+⭐ Thanks for stopping by!
+
 
