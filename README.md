@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ishank+Mishra;Full-Stack+AI+Engineer;Machine+Learning+Developer;LLM+%26+RAG+Engineer;Multi-Agent+Systems+Builder" />
 </p>
 
-# 👋 Hi, I'm **Ishank Mishra** (ishank2301)
+#  Hi, I'm Ishank Mishra
 
 ### 🚀 Full-Stack AI Engineer | ML/DL Developer | LLM & RAG Engineer | Agentic Systems
 
@@ -13,7 +13,20 @@
 ### **👨‍💻 Languages**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,sql,numpy,pandas,Matplotlib,Seaborn,Scikit--Learn,TensorFlow,PyTorch,Keras" />
+<img src="https://skillicons.dev/icons?i=python,js,sql" />
+</p>
+
+### **📚 Python Libraries**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+<br>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-4C8CB5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
 </p>
 
 ### **🤖 AI/LLM & Agent Frameworks**
@@ -50,30 +63,6 @@
 </p>
 
 ----
-
-## 🔥 3D GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishank2301&theme=tokyo-night" />
-</p>
-
-
-## 🏆 Achievements & Certifications
-
-* 🥇 Completed multiple AI/ML projects including RAG & Agentic Systems
-* 🎯 Hands-on experience in LLM Engineering & Vector Databases
-* 🧠 Built end-to-end AI SaaS tools with deployment
-
-## 🚀 Skill Progress Bars
-
-```text
-Python           ████████████████░░░░  85%
-Machine Learning ████████████████░░░░  80%
-Deep Learning    ███████████████░░░░░  75%
-LLMs/RAG         ██████████████████░░  90%
-Agents (CrewAI)  ███████████████░░░░░  78%
-Backend/API      ████████████░░░░░░░░  60%
-
 
 
 ```
