@@ -152,18 +152,12 @@ Backend/API      ████████████░░░░░░░░  6
 ## 📊 **GitHub Stats**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ishank2301&show_icons=true&theme=tokyonight" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishank2301&layout=compact&theme=tokyonight" width="40%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishank2301&theme=tokyonight" width="60%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishank2301&show_icons=true&theme=tokyonight" width="47%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishank2301&layout=compact&theme=tokyonight" width="40%" />
+<img src="https://streak-stats.demolab.com?user=ishank2301&theme=tokyonight" width="60%" />
 </p>
 
----
-
-## 🐍 **Contribution Snake**
-
-![snake gif](https://github.com/ishank2301/ishank2301/blob/output/github-contribution-grid-snake.svg)
-
----
+----
 
 ## 📫 **Let's Connect**
 
@@ -203,21 +197,7 @@ Backend/API      ████████████░░░░░░░░  6
 ---
 
 
-## 🧬 **Quantum Divider**
 
-<p align="center">
-  <img src="https://i.imgur.com/8LHjIYH.gif" width="500" />
-</p>
-
----
-
-## 🔮 **3D AI Circuit Footer**
-
-<p align="center">
-  <img src="https://i.imgur.com/5zE4nID.gif" width="700" />
-</p>
-
----
 
 ### Your Skills Are Now Represented as a Network of Universes:
 
