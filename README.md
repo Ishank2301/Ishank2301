@@ -108,18 +108,6 @@ Advanced LangChain-based multi-agent workflows.
 
 ---
 
-## 🧬 Premium 3D Neon AI Banner
-
-<p align="center">
-  <img src="https://i.imgur.com/Ho9QFQX.gif" width="600" />
-</p>
-
-## 🌀 Ultra Neon Animated Header Divider
-
-<p align="center">
-  <img src="https://i.imgur.com/dZ5wR2z.gif" width="500" />
-</p>
-
 ## ✨ Aesthetic AI Banner
 
 <p align="center">
@@ -189,22 +177,7 @@ Backend/API      ████████████░░░░░░░░  6
 
 ---
 
-
-## 🟦 **AI Identity Banner — "ISHANK • THE ARCHITECT ENGINEER"**
-
-<p align="center">
-  <img src="https://i.imgur.com/MgJkSgB.gif" width="650" />
-</p>
-
----
-
-## 🧿 **LLM Galaxy Panel**
-
-<p align="center">
-  <img src="https://i.imgur.com/wi3Yq0M.gif" width="550" />
-</p>
-
-**Specializations Across the LLM Galaxy:**
+**My Specialty as an AI/ml enthusiast:**
 
 * 🌠 Retrieval-Augmented Generation
 * 🌌 LangChain Framework Mastery
@@ -214,12 +187,6 @@ Backend/API      ████████████░░░░░░░░  6
 * ⚡ High-Performance Model Deployment
 
 ---
-
-## 🧊 **Ultra-Premium Project Cards (Glassmorphism Edition)**
-
-<p align="center">
-  <img src="https://i.imgur.com/WyIh9ll.png" width="600" />
-</p>
 
 ### **🚀 RAG System — Chat With Documents**
 
@@ -235,21 +202,6 @@ Backend/API      ████████████░░░░░░░░  6
 
 ---
 
-## 🏅 **Elite Engineer Seal**
-
-<p align="center">
-  <img src="https://i.imgur.com/L7Y7rJp.gif" width="300" />
-</p>
-
----
-
-## 🛰️ **Prestige Badges**
-
-![Level 99](https://img.shields.io/badge/LEVEL-99-7D00FF?style=for-the-badge)
-![AI Architect](https://img.shields.io/badge/AI-ARCHITECT-blueviolet?style=for-the-badge)
-![Master Engineer](https://img.shields.io/badge/MASTER-ENGINEER-black?style=for-the-badge)
-
----
 
 ## 🧬 **Quantum Divider**
 
@@ -267,43 +219,6 @@ Backend/API      ████████████░░░░░░░░  6
 
 ---
 
-## 🌐 **OMNIVERSE MODE — TRANSCENDENT ENGINEER EDITION**
-
-<p align="center">
-  <img src="https://i.imgur.com/jh6Q2vM.gif" width="700" />
-</p>
-
-### 🚀 WELCOME TO THE HIGHEST MODE POSSIBLE
-
-You have now unlocked the **final, absolute, transcendent tier** — normally unseen, unusable, and inaccessible.
-This is **beyond premium, beyond elite, beyond authority**. This is **OMNIVERSE MODE**.
-Your GitHub profile is now themed as if you are a **top-tier AI architect in a futuristic multiverse**.
-
----
-
-## 🧙‍♂️ **Your Omniverse AI Persona: "THE ARCHITECT OF SYSTEMS"**
-
-<p align="center">
-  <img src="https://i.imgur.com/ED1Wgdc.gif" width="500" />
-</p>
-
-You are represented as an AI engineer who:
-
-* Designs multi-agent civilizations 🤖
-* Controls LLM galaxies 🌌
-* Commands vector dimensions 🔮
-* Constructs quantum RAG systems ⚡
-* Engineers autonomous intelligence frameworks 🧠
-* Navigates timelines of data and computation 🕒
-
----
-
-## 🪐 **THE OMNI-GRID — ALL SKILLS LINKED ACROSS DIMENSIONS**
-
-<p align="center">
-  <img src="https://i.imgur.com/I0yJ1n1.gif" width="700" />
-</p>
-
 ### Your Skills Are Now Represented as a Network of Universes:
 
 * **Python Core Galaxy** (NumPy, Pandas, Matplotlib, Seaborn)
@@ -313,12 +228,6 @@ You are represented as an AI engineer who:
 * **Deployment Void** (Docker, FastAPI, Streamlit, Gradio)
 
 ---
-
-## 🛸 **OMNI-PROJECT CARDS — HOLOGRAPHIC MODE**
-
-<p align="center">
-  <img src="https://i.imgur.com/ybIXyFr.png" width="600" />
-</p>
 
 ### 🚀 **RAG System — The Knowledge Harvester**
 
@@ -334,32 +243,6 @@ You are represented as an AI engineer who:
 
 ---
 
-## 🛰️ **OMNI-RANK BADGES**
 
-![Tier](https://img.shields.io/badge/RANK-S%2B%2B%2B-9b00ff?style=for-the-badge)
-![Multiverse](https://img.shields.io/badge/MULTIVERSE-ENGINEER-0055ff?style=for-the-badge)
-![Authority](https://img.shields.io/badge/ABSOLUTE-AUTHORITY-black?style=for-the-badge)
-
----
-
-## 🌀 **COSMIC DIVIDER**
-
-<p align="center">
-  <img src="https://i.imgur.com/7kFqv0k.gif" width="650" />
-</p>
-
----
-
-## 🧬 **THE FINAL PANEL — OMEGA FOOTER**
-
-<p align="center">
-  <img src="https://i.imgur.com/uZxPOup.gif" width="750" />
-</p>
-
-You have reached the **maximum tier**.
-There are **no higher modes**.
-You are now in **OMNIVERSE MODE** — the **absolute highest upgrade**.
-
----
 
 ⭐ **Thanks for visiting my profile — you're awesome!****
