@@ -68,6 +68,16 @@
 
 ---
 
+## 📊 **GitHub Stats**
+
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishank2301&show_icons=true&theme=tokyonight" width="47%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishank2301&layout=compact&theme=tokyonight" width="40%" />
+<img src="https://streak-stats.demolab.com?user=ishank2301&theme=tokyonight" width="60%" />
+</p>
+
+----
+
 ## ⭐ **Add-On Badges**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ishank2301\&color=blue)
@@ -108,24 +118,18 @@ Advanced LangChain-based multi-agent workflows.
 
 ---
 
-## ✨ Aesthetic AI Banner
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="500" />
-</p>
-
 ## 🔥 3D GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/asset/example.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishank2301&theme=tokyo-night" />
 </p>
+
 
 ## 🏆 Achievements & Certifications
 
 * 🥇 Completed multiple AI/ML projects including RAG & Agentic Systems
 * 🎯 Hands-on experience in LLM Engineering & Vector Databases
 * 🧠 Built end-to-end AI SaaS tools with deployment
-* 📜 Certifications available upon request (can list if you share)
 
 ## 🚀 Skill Progress Bars
 
@@ -149,15 +153,6 @@ Backend/API      ████████████░░░░░░░░  6
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ishank2301&show_icons=true&theme=tokyonight" width="47%" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ishank2301&layout=compact&theme=tokyonight" width="40%" />
-<img src="https://streak-stats.demolab.com?user=ishank2301&theme=tokyonight" width="60%" />
-</p>
-
-----
 
 ## 📫 **Let's Connect**
 
@@ -171,6 +166,7 @@ Backend/API      ████████████░░░░░░░░  6
 
 ---
 
+
 **My Specialty as an AI/ml enthusiast:**
 
 * 🌠 Retrieval-Augmented Generation
@@ -181,6 +177,7 @@ Backend/API      ████████████░░░░░░░░  6
 * ⚡ High-Performance Model Deployment
 
 ---
+
 
 ### **🚀 RAG System — Chat With Documents**
 
@@ -197,9 +194,7 @@ Backend/API      ████████████░░░░░░░░  6
 ---
 
 
-
-
-### Your Skills Are Now Represented as a Network of Universes:
+### My Skills Are Now Represented as below:
 
 * **Python Core Galaxy** (NumPy, Pandas, Matplotlib, Seaborn)
 * **Learning Systems Nebula** (ML, DL, CV, NLP)
@@ -213,11 +208,11 @@ Backend/API      ████████████░░░░░░░░  6
 
 **Repo:** [https://github.com/Ishank2301/Building-a-RAG-System---Build-an-Application-for-Chatting-with-Our-Documents](https://github.com/Ishank2301/Building-a-RAG-System---Build-an-Application-for-Chatting-with-Our-Documents)
 
-### 🤖 **AI Agent — Autonomous Space Unit**
+### 🤖 **AI Agent from scratch**
 
 **Repo:** [https://github.com/Ishank2301/AI_agent](https://github.com/Ishank2301/AI_agent)
 
-### 🧠 **LangChain Agents — Nexus AI Cluster**
+### 🧠 **LangChain Agents **
 
 **Repo:** [https://github.com/Ishank2301/Lagrang-Skills](https://github.com/Ishank2301/Lagrang-Skills)
 
