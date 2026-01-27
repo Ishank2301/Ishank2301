@@ -10,7 +10,9 @@
 - 🎓 3rd year **Computer Science student**
 - 💡 Passionate about **human-computer interaction**, **AI**, and **LLM's and Agentic AI's**
 ---
+- ⚡ Resolve **"Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs. Today I step on grass; later I shall step on               mountains and rivers!" From today, I will walk on the path of supremacy! Sweep the earth and laugh at the world.
 
+- 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ishank2301) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ishank2301/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishank2301) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ishank2301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishankmishra579@gmail.com) 
 
@@ -27,4 +29,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ishank2301&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- ⚡ Resolve **"Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs. Today I step on grass; later I shall step on mountains and rivers!" From today, I will walk on the path of supremacy! Sweep the earth and laugh at the world.**"40" height="40"/> </a> <a 
+
