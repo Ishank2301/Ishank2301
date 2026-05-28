@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ishank+%E2%9A%A1;CS+Student+%7C+AI+Explorer;Building+the+Future+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ishank+%E2%9A%A1;CS+Student+%7C+AI+Enthusiast;LLMs+%26+Agentic+AI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -85,46 +85,39 @@
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishank2301&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishank2301&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 <br>
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&theme=dark&hide_border=false&layout=compact&langs_count=8" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ishank2301&theme=dark&hide_border=false" />
-</p>
+<br>
+
+<div align="center">
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Ishank2301&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</div>
 
 <br>
 
 <h2>🔝 Top Contributed Repos</h2>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ishank2301&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+<div align="center">
+  <a href="https://github.com/Ishank2301?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishank2301&repo=Ishank2301&theme=dark" alt="Top Repository" />
+  </a>
+</div>
 
 <br>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ishank2301&icon=2&color=0" />
-  </a>
-</p>
-
-<p align="center">
-  <i>⚡ "The path of supremacy begins with a single step — and mine starts here."</i>
-</p>
-
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ishank2301&icon=2&color=0" />
+    <img src="https://visitcount.itsvg.in/api?id=Ishank2301&icon=2&color=0" alt="Visit Count" />
   </a>
 </p>
 
