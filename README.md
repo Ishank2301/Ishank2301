@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ishank+%E2%9A%A1;CS+Student+%7C+AI+Enthusiast;LLMs+%26+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Ishank+⚡;CS+Student+%7C+AI+Enthusiast;LLMs+%26+Agentic+AI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently Learning-%20System%20Design-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-System%20Design-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20To-Collaborations-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-LLMs%20%26%20Agentic%20AI-blueviolet?style=for-the-badge" />
 </p>
@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=Ishank2301&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
 
-<h2>✨ About Me</h2>
+---
+
+# ✨ About Me
 
 - 🎓 3rd year **Computer Science student**
 - 💡 Passionate about **Human-Computer Interaction**, **AI**, and **LLMs & Agentic AI**
@@ -22,27 +24,41 @@
 
 <br>
 
-> ⚡ *"Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs.*
-> *Today I step on grass; later I shall step on mountains and rivers!*
+> ⚡ *"Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs.*  
+> *Today I step on grass; later I shall step on mountains and rivers!*  
 > *From today, I will walk on the path of supremacy! Sweep the earth and laugh at the world."*
 
-<br>
+---
 
-<h2>🌐 Socials</h2>
+# 🌐 Socials
 
 <p align="left">
-  <a href="https://www.facebook.com/ishank2301"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/ishank2301/?__pwa=1"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/ishank2301"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://x.com/@Ishank2301"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:ishankmishra579@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.facebook.com/ishank2301">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://www.instagram.com/ishank2301/?__pwa=1">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://linkedin.com/in/ishank2301">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://x.com/Ishank2301">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="mailto:ishankmishra579@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
-<br>
+---
 
-<h2>💻 Tech Stack</h2>
+# 💻 Tech Stack
 
-<h4>Languages & Cloud</h4>
+## Languages & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -52,7 +68,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h4>AI / ML Frameworks</h4>
+## AI / ML Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -62,7 +78,7 @@
   <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
 </p>
 
-<h4>Data & Visualization</h4>
+## Data & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -72,7 +88,7 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
-<h4>Tools</h4>
+## Tools
 
 <p>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -80,42 +96,80 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<br>
+---
 
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishank2301&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-<h2>📊 GitHub Stats</h2>
-
-<p>
-  <img alt="Ishank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ishank2301&show_icons=true&hide=contribs,issues&theme=radical" />
-  <img alt="Ishank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&layout=compact&theme=radical" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishank2301&theme=radical" alt="Ishank's Streak Stats" />
-</p>
-
-<br>
-
-<h2>🔝 Top Contributed Repos</h2>
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/Ishank2301?tab=repositories&sort=stars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishank2301&repo=Ishank2301&theme=radical" alt="Ishank2301 Profile Repo" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Ishank2301&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" 
+  />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=Ishank2301&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" 
+  />
+
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="70%" 
+    src="https://streak-stats.demolab.com?user=Ishank2301&theme=radical&hide_border=true" 
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ishank2301&theme=redical&hide_border=true&area=true" 
+    width="95%"
+  />
+</p>
+
+---
+
+# 🔝 Featured Projects
+
+<p align="center">
+
+  <a href="https://github.com/Ishank2301/Comprehensive-ML-Handbook">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Ishank2301&repo=Comprehensive-ML-Handbook&theme=radical&hide_border=true" 
+    />
   </a>
+
 </p>
 
-<br>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Ishank2301/Ishank2301/output/snake.svg" 
+    alt="Snake animation"
+  />
+</p>
+
+---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ishank2301&icon=2&color=0" alt="Visit Count" />
+    <img src="https://visitcount.itsvg.in/api?id=Ishank2301&icon=2&color=0" />
   </a>
 </p>
 
