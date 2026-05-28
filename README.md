@@ -85,7 +85,7 @@
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishank2301&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishank2301&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 <br>
@@ -93,23 +93,12 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&theme=dark&hide_border=false&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ishank2301&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-<br>
-
-<h2>📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishank2301&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <br>
@@ -122,13 +111,16 @@
 
 <br>
 
-<h2>💬 Random Dev Quote</h2>
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Ishank2301&icon=2&color=0" />
+  </a>
 </p>
 
-<br>
+<p align="center">
+  <i>⚡ "The path of supremacy begins with a single step — and mine starts here."</i>
+</p>
+
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
