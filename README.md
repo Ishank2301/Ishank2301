@@ -92,26 +92,24 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
+<p>
+  <img alt="Ishank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ishank2301&show_icons=true&hide=contribs,issues&theme=radical" />
+  <img alt="Ishank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&layout=compact&theme=radical" />
+</p>
 
-<br>
-
-<div align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Ishank2301&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishank2301&theme=radical" alt="Ishank's Streak Stats" />
+</p>
 
 <br>
 
 <h2>🔝 Top Contributed Repos</h2>
 
-<div align="center">
-  <a href="https://github.com/Ishank2301?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishank2301&repo=Ishank2301&theme=dark" alt="Top Repository" />
+<p align="center">
+  <a href="https://github.com/Ishank2301?tab=repositories&sort=stars">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ishank2301&repo=Ishank2301&theme=radical" alt="Ishank2301 Profile Repo" />
   </a>
-</div>
+</p>
 
 <br>
 
