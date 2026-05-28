@@ -1,23 +1,141 @@
-<h1 align="center">⚡ Ishank </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ishank+%E2%9A%A1;CS+Student+%7C+AI+Explorer;Building+the+Future+with+Code!" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Currently Learning-%20System%20Design-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborations-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-LLMs%20%26%20Agentic%20AI-blueviolet?style=for-the-badge" />
 </p>
----
-## ✨ About Me
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishank2301&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
+</p>
+
+<h2>✨ About Me</h2>
+
 - 🎓 3rd year **Computer Science student**
-- 💡 Passionate about **human-computer interaction**, **AI**, and **LLM's and Agentic AI's**
----
-- ⚡ Resolve **"Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs. Today I step on grass; later I shall step on               mountains and rivers!" From today, I will walk on the path of supremacy! Sweep the earth and laugh at the world.
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ishank2301) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ishank2301/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishank2301) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ishank2301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishankmishra579@gmail.com) 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ishank2301&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ishank2301&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=Ishank2301&icon=2&color=0)](https://visitcount.itsvg.in)
- fix this and add some cool features do not change the structure or design
+- 💡 Passionate about **Human-Computer Interaction**, **AI**, and **LLMs & Agentic AI**
+- 🔭 Currently exploring **System Design** and **Distributed Systems**
+- 🌱 Always learning — always building
+- 🤝 Open to collaborating on **AI/ML projects** and **open-source**
+
+<br>
+
+> ⚡ *"Because hardships strengthen resolve, the strong-minded will not be lured by worldly affairs.*
+> *Today I step on grass; later I shall step on mountains and rivers!*
+> *From today, I will walk on the path of supremacy! Sweep the earth and laugh at the world."*
+
+<br>
+
+<h2>🌐 Socials</h2>
+
+<p align="left">
+  <a href="https://www.facebook.com/ishank2301"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/ishank2301/?__pwa=1"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/ishank2301"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://x.com/@Ishank2301"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:ishankmishra579@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+<br>
+
+<h2>💻 Tech Stack</h2>
+
+<h4>Languages & Cloud</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h4>AI / ML Frameworks</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
+</p>
+
+<h4>Data & Visualization</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
+
+<h4>Tools</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<br>
+
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishank2301&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+<br>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ishank2301&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishank2301&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+<br>
+
+<h2>📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishank2301&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<br>
+
+<h2>🔝 Top Contributed Repos</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ishank2301&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+<br>
+
+<h2>💬 Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Ishank2301&icon=2&color=0" />
+  </a>
+</p>
+
+<p align="center">
+  <i>⚡ "The path of supremacy begins with a single step — and mine starts here."</i>
+</p>
