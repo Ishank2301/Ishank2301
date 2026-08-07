@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Ishank</h1>
+<h1 align="center">⚡Ishank </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently Learning-%20System%20Design-ff69b4?style=for-the-badge" />
